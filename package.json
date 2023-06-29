@@ -1,0 +1,15 @@
+{
+  "name": "jobeeapi-nodejs",
+  "version": "1.0.0",
+  "description": "APi for jobs management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huyvictory",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
